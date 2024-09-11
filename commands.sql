@@ -20,5 +20,5 @@ INSERT INTO Employee VALUES (000106, 'Josh', 'Porter', '1969-09-05', 'M', '78000
 INSERT INTO Employee VALUES (000107, 'Andy', 'Bernard', '1973-07-22', 'M', '65000', '106', '3');
 INSERT INTO Employee VALUES (000108, 'Jim', 'Halpert', '1978-10-01', 'M', '71000', '106', '3');
 -- fetch
-SELECT * FROM
+SELECT * FROM Employee
 
